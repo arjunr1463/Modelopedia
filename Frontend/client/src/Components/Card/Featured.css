@@ -1,0 +1,17 @@
+@media screen and (max-width: 420px) {
+    /* Set the width to 100% */
+    .responsive-element {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (min-width: 420px) and (max-width: 660px) {
+    .responsive-element {
+      width: 70vw;
+    }
+  }
+  @media screen and (min-width: 420px) and (max-width: 660px) {
+    .responsive-description {
+      width:100%;  
+    }
+  }

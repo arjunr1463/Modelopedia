@@ -1,0 +1,10 @@
+::-webkit-scrollbar{
+    display: none;
+}
+.table-row:nth-child(odd) {
+    background-color:white;
+  }
+  .table-row:nth-child(even) {
+    background-color:#ecf5ff;
+  }
+  
